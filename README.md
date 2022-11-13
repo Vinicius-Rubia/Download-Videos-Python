@@ -43,8 +43,8 @@ $ pip install PySimpleGUI
 Depois de executar a aplicação, para fazer o download você precisa:
 
 - Informar no primeiro campo o link do vídeo a ser baixado;
-- Infromar no segundo campo o local onde será baixado o vídeo. Também pode usar o botão ( Browse ) pra procurar o local;
-- Clicar no botão ( Baixar ) para começar o download;
+- Infromar no segundo campo o local onde será baixado o vídeo. Também pode usar o botão ` Browse ` pra procurar o local;
+- Clicar no botão ` Baixar ` para começar o download;
 
 Quando terminar o Download, aparecerá um popup concluindo.
 
